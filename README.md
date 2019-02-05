@@ -1,5 +1,5 @@
-## Java File Handling eith CRUD
+## Java File Handling with CRUD
 
-#Simple Java Program with File Handling and Create, Update, Delete, Update Feature.
+#Simple Java Program with File Handling with Create, Update, Delete, Update Feature.
 
 Note: I wrote this for school compliance.
